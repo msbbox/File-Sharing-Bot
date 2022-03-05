@@ -118,7 +118,7 @@ Report Bugs, Give Feature Requests There..
 ### Credits
 
 - Thanks To Dan For His Awsome [Ninja](https://t.me/Ninja0p)
-- Our Support Group Members
+- Our Support Group Members 
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
