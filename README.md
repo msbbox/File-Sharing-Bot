@@ -111,7 +111,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://t.me/moviessearch_box) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://t.me/moviessearch_box) For Support/Assistance And Our [Channel](https://t.me/moviessearch_box) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
